@@ -1,4 +1,5 @@
 function modulo(){
-  console.log("teste");
+  var palavra = "Teste"
+  console.log(palavra);
 }
 module.exports = {modulo}; // disponibiliza a função
